@@ -4,8 +4,7 @@ This project contains various bits of hacking code, written or modified by eb0t.
 
 I am totally interested in hacking, and do this as a hobby.
 
-My current goal is to learn about low level packet construction, Network programming, to advance in 'C', and to build a BOTNET.
-To advance my global understanding of computers, networks and coding.
+My current goal is to gain a thorough understanding of TCP/IP and to advance my global understanding of Computers, Networks and Coding.
 
 					#######################
 
