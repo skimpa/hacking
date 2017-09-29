@@ -1,4 +1,5 @@
 /*
+	syn-dos.c
 	Syn Flood DOS with LINUX sockets
 	program needs to run with ROOT privilege
 */
@@ -134,7 +135,7 @@ int main (void)
 		//Data send successfully
 		else
 		{
-			printf ("Packet Send \n");
+			printf ("Packet Sent \n");
 		}
 	}
 	
