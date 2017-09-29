@@ -31,9 +31,9 @@ This was a successful hack. I got the code offline, but had to modify it as some
 
 This program is creating and manipulating sockets and so needs to be run from ROOT
 
-	$ gcc syn-dos.c
+	# gcc syn-dos.c
 
-	$ ./a.out
+	# ./a.out
 
 Once running, break the process using.
 
