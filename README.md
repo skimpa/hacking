@@ -29,10 +29,10 @@ This is my first successful hack, i got the code offline, but had to modify it a
 
 This program is creating and manipulating sockets and so needs to be run from ROOT
 
-# gcc syn-dos.c
+	$ gcc syn-dos.c
 
-# ./a.out
+	$ ./a.out
 
-Once running, break the process using <ctrl>c
+Once running, break the process using /<ctrl/>c
 
 -------------------------------------
