@@ -2,7 +2,9 @@
 
 This project contains various bits of hacking code, written or modified by eb0t.
 
-						#######################
+I am totally interested in hacking, and do this as a hobby.
+
+					#######################
 
 				WARNING !
 
@@ -10,7 +12,7 @@ This project contains various bits of hacking code, written or modified by eb0t.
 
 				.....YOU COULD EASILY WIND UP IN PRISON
 
-						#######################
+					#######################
 
 -----------------------------------
 
@@ -25,7 +27,7 @@ The ACK never comes, meaning the server has many half formed TCP sessions in its
 
 This type of attack is easily prevented by a rudimentary firewall.
 
-This is my first successful hack, i got the code offline, but had to modify it as some of the functions were redundant, so i had to import and use different functions
+This was a successful hack. I got the code offline, but had to modify it as some of the functions were redundant, so i had to import and use different functions
 
 This program is creating and manipulating sockets and so needs to be run from ROOT
 
@@ -35,6 +37,6 @@ This program is creating and manipulating sockets and so needs to be run from RO
 
 Once running, break the process using.
 
-	ctrl-c
+	<ctrl>-c
 
 -------------------------------------
