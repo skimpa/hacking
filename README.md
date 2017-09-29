@@ -33,6 +33,8 @@ This program is creating and manipulating sockets and so needs to be run from RO
 
 	$ ./a.out
 
-Once running, break the process using /<ctrl/>c
+Once running, break the process using.
+
+	ctrl-c
 
 -------------------------------------

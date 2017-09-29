@@ -119,7 +119,6 @@ int main (void)
 		exit(0);
 	}
 	
-	//Uncommend the while loop if you want to flood :)
 	while (1)
 	{
 		//Send the packet
