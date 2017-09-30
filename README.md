@@ -22,7 +22,7 @@ syn-dos.c
 
 This is a piece of code that performs a SYN-flood against a server.
 
-To take down a typical residential line in 2017, this code would have to be run from at least 4 different machines against the same server.
+To take down a typical residential line in 2017, this code would have to be run from at least 4 different machines against the same server. IP Addresses in the code need to be modified to be your target IP address, rather than 10.44.55.5 which is my server.
 
 The code uses raw sockets to initiate a TCP session with a server and sends a SYN
 The server responds with a SYN/ACK and then awaits a ACK.The program then repeatedly sends more SYN's.
