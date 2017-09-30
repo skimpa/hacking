@@ -22,7 +22,7 @@ syn-dos.c
 
 This is a piece of code that performs a SYN-flood against a server.
 
-To take down a typical residential line in 2017, this code would have to be run from at least 4 different machines against the same server. IP Addresses in the code need to be modified to be your target IP address, rather than 10.44.55.5 which is my server.
+To take down a typical residential line in 2017, this code would have to be run from at least 4 different machines against the same server. 
 
 The code uses raw sockets to initiate a TCP session with a server and sends a SYN
 The server responds with a SYN/ACK and then awaits a ACK.The program then repeatedly sends more SYN's.
@@ -31,6 +31,8 @@ The ACK's never arrive, meaning the server has thousands or millions of half for
 This type of attack is easily prevented by a rudimentary firewall.
 
 I have tested this hack successfully. I got the code offline, but had to modify it as some of the functions were redundant, so i had to import and use different functions.
+
+The Target destination IP Addresses in the code needs to be changed to the target IP address rather than 10.44.55.5 which is my server.
 
 This program is creating and manipulating sockets and so needs to be run from ROOT
 
